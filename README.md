@@ -24,8 +24,8 @@ O projeto demonstra como utilizar o LangChain para interagir com modelos de ling
 1. Clone o repositório:
 
    ```
-   git clone <url-do-repositorio>
-   cd aula-2
+   git clone https://github.com/Diogooliveira10/langchain-llm-translator
+   cd langchain-llm-translator
    ```
 
 2. Ative o ambiente virtual:
